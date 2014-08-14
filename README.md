@@ -3,7 +3,7 @@ codeceptionJson
 
 Codeception Tests in JSON format
 
-<code>
+<pre>
 [
     {
         "wantTo":["Create stream session id"],
@@ -25,6 +25,6 @@ Codeception Tests in JSON format
     },
     {...}
 }
-</code>
+</pre>
 
     
